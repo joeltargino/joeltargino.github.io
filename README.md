@@ -1,11 +1,19 @@
 
 ## Usando o git
 
-## Para voltar pro branch principal
-`git checkout main`
+
+
+## Para alterar a branch
+`git checkout nome-da-branch` (main)
 
 ## Para atualizar o branch
 `git pull origin nome-da-branch` (main)
+
+## Para veriricar a branch atual
+`gir branch`
+
+## Para criar uma nova branch
+`git branch nome-da-nova-branch`
 
 
 ---
