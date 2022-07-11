@@ -1,7 +1,11 @@
+
 ## usando o git
 
 ##Para voltar pro branch principal
 `git checkout main`
+
+##Para atualizar o branch
+`git pull origin nome-da-branch` (main)
 
 ## Para Adicionar os arquivos
 `git add .` ou `git add arquivo.html`
