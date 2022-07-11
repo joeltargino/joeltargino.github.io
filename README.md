@@ -1,8 +1,6 @@
 
 ## Usando o git
 
-
-
 ## Para alterar a branch
 `git checkout nome-da-branch` (main)
 
